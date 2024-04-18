@@ -1,5 +1,7 @@
 "# OpenShell" 
 -v 1.10
+请访问我们的官网/WebSite：http://eaststar.ltd
+
 UI Version:
 要开始，请运行sshui.py,在URL，USERNAME,PASSWORD输入您的主机地址,用户名，密码等信息，然后点击CONNECT按钮，连接成功后，即可在下方红色栏发送信息给shell
 
